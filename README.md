@@ -20,4 +20,4 @@ This project is a Power BI dashboard created to analyze sales data from 2020 to 
 - Excel
 
 ## Dashboard Preview
-![Dashboard](your-image-name.png)
+![Dashboard](dashboard.pdf)
